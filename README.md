@@ -1,6 +1,6 @@
-# 前言
+# Python and Machine Learning 
 
-## 我为什么写这本书
+a book about how to resolve machine learning problems by python sereas tools.
 
-机器学习越来越多为各行各业人们所熟知，非计算机科学背景的工作人员也需要通过机器学习分析自己数据的需求。本书就是针对内部分析师准备的。
+
 
